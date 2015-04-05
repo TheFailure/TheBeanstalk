@@ -1,0 +1,715 @@
+"/Users/bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/TheBeanstalk.uproject" 1
+"../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
+"../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
+"../../../Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin" 4
+"../../../Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin" 5
+"../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 6
+"../../../Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin" 7
+"../../../Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin" 8
+"../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin" 9
+"../../../Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin" 10
+"../../../Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin" 11
+"../../../Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin" 12
+"../../../Engine/Plugins/Editor/PluginsEditor/PluginsEditor.uplugin" 13
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin" 14
+"../../../Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin" 15
+"../../../Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin" 16
+"../../../Engine/Plugins/Experimental/CodeView/CodeView.uplugin" 17
+"../../../Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin" 18
+"../../../Engine/Plugins/Experimental/Phya/Phya.uplugin" 19
+"../../../Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin" 20
+"../../../Engine/Plugins/Experimental/SteamVR/SteamVR.uplugin" 21
+"../../../Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin" 22
+"../../../Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin" 23
+"../../../Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin" 24
+"../../../Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin" 25
+"../../../Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin" 26
+"../../../Engine/Plugins/Messaging/ShmMessaging/ShmMessaging.uplugin" 27
+"../../../Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin" 28
+"../../../Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin" 29
+"../../../Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin" 30
+"../../../Engine/Plugins/Runtime/Analytics/Apsalar/IOSApsalar/IOSApsalar.uplugin" 31
+"../../../Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin" 32
+"../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin" 33
+"../../../Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin" 34
+"../../../Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin" 35
+"../../../Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin" 36
+"../../../Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin" 37
+"../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin" 38
+"../../../Engine/Plugins/Runtime/GearVR/GearVR.uplugin" 39
+"../../../Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin" 40
+"../../../Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin" 41
+"../../../Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin" 42
+"../../../Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin" 43
+"../../../Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin" 44
+"../../../Engine/Plugins/Runtime/TwitchLiveStreaming/TwitchLiveStreaming.uplugin" 45
+"../../../Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin" 46
+"../../../Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin" 47
+"../../../Engine/Plugins/ScriptGeneratorPlugin/ScriptGeneratorPlugin.uplugin" 48
+"../../../Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin" 49
+"../../../Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin" 50
+"../../../Engine/Content/Internationalization/icudt53l/cnvalias.icu" 51
+"../../../Engine/Content/Internationalization/icudt53l/en_US_POSIX.res" 52
+"../../../Engine/Content/Internationalization/icudt53l/pool.res" 53
+"../../../Engine/Content/Internationalization/icudt53l/en_US.res" 54
+"../../../Engine/Content/Internationalization/icudt53l/en.res" 55
+"../../../Engine/Content/Internationalization/icudt53l/root.res" 56
+"../../../Engine/Content/Internationalization/icudt53l/coll/ucadata.icu" 57
+"../../../Engine/Content/Internationalization/icudt53l/nfc.nrm" 58
+"../../../Engine/Content/Internationalization/icudt53l/coll/en_US_POSIX.res" 59
+"../../../Engine/Content/Internationalization/icudt53l/coll/en_US.res" 60
+"../../../Engine/Content/Internationalization/icudt53l/coll/en.res" 61
+"../../../Engine/Content/Internationalization/icudt53l/coll/root.res" 62
+"../../../Engine/Content/Internationalization/icudt53l/numberingSystems.res" 63
+"../../../Engine/Content/Internationalization/icudt53l/curr/supplementalData.res" 64
+"../../../Engine/Content/Internationalization/icudt53l/curr/pool.res" 65
+"../../../Engine/Content/Internationalization/icudt53l/curr/en.res" 66
+"../../../Engine/Content/Internationalization/icudt53l/curr/root.res" 67
+"../../../Engine/Content/Internationalization/icudt53l/plurals.res" 68
+"../../../Engine/Content/Internationalization/icudt53l/zoneinfo64.res" 69
+"../../../Engine/Content/Internationalization/icudt53l/keyTypeData.res" 70
+"../../../Engine/Content/Internationalization/icudt53l/timezoneTypes.res" 71
+"../../../Engine/Content/Internationalization/icudt53l/supplementalData.res" 72
+"../../../Engine/Content/Internationalization/icudt53l/likelySubtags.res" 73
+"../../../Engine/Content/Internationalization/icudt53l/de_DE.res" 74
+"../../../Engine/Content/Internationalization/icudt53l/de.res" 75
+"../../../Engine/Content/Internationalization/icudt53l/coll/de.res" 76
+"../../../Engine/Content/Internationalization/icudt53l/curr/de.res" 77
+"/Users/bernddrlangenstein/Library/Application Support/Epic/Epic Games/KeyValueStore.ini" 78
+"../../../Engine/Config/Base.ini" 79
+"../../../Engine/Config/BaseEngine.ini" 80
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Config/DefaultEngine.ini" 81
+"../../../Engine/Config/Mac/MacEngine.ini" 82
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Engine.ini" 83
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Engine.ini" 84
+"../../../Engine/Config/BaseGame.ini" 85
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Config/DefaultGame.ini" 86
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Game.ini" 87
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Game.ini" 88
+"../../../Engine/Config/BaseInput.ini" 89
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Config/DefaultInput.ini" 90
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Input.ini" 91
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Input.ini" 92
+"../../../Engine/Config/BaseEditor.ini" 93
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Config/DefaultEditor.ini" 94
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Editor.ini" 95
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Editor.ini" 96
+"../../../Engine/Config/BaseEditorLayout.ini" 97
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/EditorLayout.ini" 98
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/EditorLayout.ini" 99
+"../../../Engine/Config/BaseEditorUserSettings.ini" 100
+"../../../Engine/Config/Mac/MacEditorUserSettings.ini" 101
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/EditorUserSettings.ini" 102
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/EditorUserSettings.ini" 103
+"../../../Engine/Config/BaseEditorKeyBindings.ini" 104
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/EditorKeyBindings.ini" 105
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/EditorKeyBindings.ini" 106
+"../../../Engine/Config/BaseCompat.ini" 107
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Compat.ini" 108
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Compat.ini" 109
+"../../../Engine/Config/BaseLightmass.ini" 110
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Lightmass.ini" 111
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Lightmass.ini" 112
+"../../../Engine/Config/BaseScalability.ini" 113
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/Scalability.ini" 114
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini" 115
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/GameUserSettings.ini" 116
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/GameUserSettings.ini" 117
+"../../../Engine/Config/BaseDeviceProfiles.ini" 118
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/DeviceProfiles.ini" 119
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/DeviceProfiles.ini" 120
+"../../../Engine/Config/ConsoleVariables.ini" 121
+"../../../Engine/Content/Internationalization/icudt53l/es.res" 122
+"../../../Engine/Content/Internationalization/icudt53l/coll/es.res" 123
+"../../../Engine/Content/Internationalization/icudt53l/curr/es.res" 124
+"../../../Engine/Content/Internationalization/icudt53l/es_ES.res" 125
+"../../../Engine/Content/Internationalization/icudt53l/ja.res" 126
+"../../../Engine/Content/Internationalization/icudt53l/coll/ja.res" 127
+"../../../Engine/Content/Internationalization/icudt53l/curr/ja.res" 128
+"../../../Engine/Content/Internationalization/icudt53l/ja_JP.res" 129
+"../../../Engine/Content/Internationalization/icudt53l/ko.res" 130
+"../../../Engine/Content/Internationalization/icudt53l/coll/ko.res" 131
+"../../../Engine/Content/Internationalization/icudt53l/curr/ko.res" 132
+"../../../Engine/Content/Internationalization/icudt53l/ko_KR.res" 133
+"../../../Engine/Content/Internationalization/icudt53l/pt_BR.res" 134
+"../../../Engine/Content/Internationalization/icudt53l/pt.res" 135
+"../../../Engine/Content/Internationalization/icudt53l/coll/pt.res" 136
+"../../../Engine/Content/Internationalization/icudt53l/curr/pt.res" 137
+"../../../Engine/Content/Internationalization/icudt53l/zh_CN.res" 138
+"../../../Engine/Content/Internationalization/icudt53l/zh_Hans_CN.res" 139
+"../../../Engine/Content/Internationalization/icudt53l/zh_Hans.res" 140
+"../../../Engine/Content/Internationalization/icudt53l/zh.res" 141
+"../../../Engine/Content/Internationalization/icudt53l/coll/zh_CN.res" 142
+"../../../Engine/Content/Internationalization/icudt53l/coll/zh_Hans_CN.res" 143
+"../../../Engine/Content/Internationalization/icudt53l/coll/zh_Hans.res" 144
+"../../../Engine/Content/Internationalization/icudt53l/coll/zh.res" 145
+"../../../Engine/Content/Internationalization/icudt53l/curr/zh_CN.res" 146
+"../../../Engine/Content/Internationalization/icudt53l/curr/zh_Hans_CN.res" 147
+"../../../Engine/Content/Internationalization/icudt53l/curr/zh_Hans.res" 148
+"../../../Engine/Content/Internationalization/icudt53l/curr/zh.res" 149
+"/Users/Shared/UnrealEngine/4.7/Engine/Content/Localization/Engine/en/Engine.locres" 150
+"/Users/Shared/UnrealEngine/4.7/Engine/Content/Localization/Editor/en/Editor.locres" 151
+"/Users/Shared/UnrealEngine/4.7/Engine/Content/Localization/EditorTutorials/en/EditorTutorials.locres" 152
+"../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf" 153
+"../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf" 154
+"../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf" 155
+"../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf" 156
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSpriteVertexFactory.usf" 157
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/VertexFactoryCommon.usf" 158
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/Common.usf" 159
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MetalCommon.usf" 160
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderVersion.usf" 161
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/Definitions.usf" 162
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/Random.usf" 163
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleVertexFactoryCommon.usf" 164
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleGPUSpriteVertexFactory.usf" 165
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleBeamTrailVertexFactory.usf" 166
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/VectorFieldVisualizationVertexFactory.usf" 167
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LocalVertexFactory.usf" 168
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LocalVertexFactoryCommon.usf" 169
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MeshParticleVertexFactory.usf" 170
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/GpuSkinVertexFactory.usf" 171
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/GpuSkinCacheCommon.usf" 172
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LandscapeVertexFactory.usf" 173
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/OneColorShader.usf" 174
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSortKeyGen.usf" 175
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleBoundsShader.usf" 176
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSimVisualizeShader.usf" 177
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleInjectionShader.usf" 178
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleSimulationShader.usf" 179
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ParticleCurveInjectionShader.usf" 180
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/VectorFieldCompositeShaders.usf" 181
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/UpdateTextureShaders.usf" 182
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementColorChannelMaskPixelShader.usf" 183
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementHitProxyPixelShader.usf" 184
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementPixelShader.usf" 185
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ColorUtils.usf" 186
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/IESLightProfilesCommon.usf" 187
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementVertexShader.usf" 188
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenVertexShader.usf" 189
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenPixelShader.usf" 190
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/NullPixelShader.usf" 191
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/RadixSortShaders.usf" 192
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/GpuSkinCacheComputeShader.usf" 193
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ClearReplacementShaders.usf" 194
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SlateElementPixelShader.usf" 195
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MaterialTemplate.usf" 196
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DepthOfFieldCommon.usf" 197
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SpeedTreeCommon.usf" 198
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/AtmosphereCommon.usf" 199
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessCommon.usf" 200
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredShadingCommon.usf" 201
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightAccumulator.usf" 202
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SlateVertexShader.usf" 203
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/VisualizeTexture.usf" 204
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ScreenSpaceReflections.usf" 205
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BRDF.usf" 206
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MonteCarlo.usf" 207
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessBloom.usf" 208
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/FilterVertexShader.usf" 209
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/FilterPixelShader.usf" 210
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessVisualizeHDR.usf" 211
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHistogramCommon.usf" 212
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/TonemapCommon.usf" 213
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MiniFontCommon.usf" 214
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessVisualizeBuffer.usf" 215
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessUpscale.usf" 216
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTonemap.usf" 217
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTestImage.usf" 218
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTemporalAA.usf" 219
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessTemporalCommon.usf" 220
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessSubsurface.usf" 221
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SeparableSSS.usf" 222
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessSelectionOutline.usf" 223
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessSceneColorFringe.usf" 224
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessNoiseBlur.usf" 225
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessMotionBlur.usf" 226
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessMobile.usf" 227
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessMaterialShaders.usf" 228
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessLensFlares.usf" 229
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessLensBlur.usf" 230
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHistogramReduce.usf" 231
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHistogram.usf" 232
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessHMD.usf" 233
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessGBufferHints.usf" 234
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessEyeAdaptation.usf" 235
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessDownsample.usf" 236
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessDOF.usf" 237
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessCompositeEditorPrimitives.usf" 238
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessCombineLUTs.usf" 239
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessBusyWait.usf" 240
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessBokehDOF.usf" 241
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/FXAAShader.usf" 242
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/Fxaa3_11.usf" 243
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessPassThrough.usf" 244
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessLpvIndirect.usf" 245
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredLightingCommon.usf" 246
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DynamicLightingCommon.usf" 247
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVFinalPass.usf" 248
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVCommon.usf" 249
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredDecal.usf" 250
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessAmbientOcclusion.usf" 251
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PostProcessAmbient.usf" 252
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/CubemapCommon.usf" 253
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/VelocityShader.usf" 254
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/Tessellation.usf" 255
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/FlatTessellation.usf" 256
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PNTriangles.usf" 257
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/TranslucentLightingShaders.usf" 258
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SHCommon.usf" 259
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowProjectionCommon.usf" 260
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/TranslucentLightInjectionShaders.usf" 261
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightFunctionCommon.usf" 262
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/TranslucentShadowDepthShaders.usf" 263
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowDepthCommon.usf" 264
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/TiledDeferredLightShaders.usf" 265
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowProjectionPixelShader.usf" 266
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowFilteringCommon.usf" 267
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowProjectionVertexShader.usf" 268
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowDepthPixelShader.usf" 269
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVWriteVplCommon.usf" 270
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVWriteCommon.usf" 271
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShadowDepthVertexShader.usf" 272
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderComplexityApplyPixelShader.usf" 273
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderComplexityApplyVertexShader.usf" 274
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ShaderComplexityAccumulatePixelShader.usf" 275
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HZBOcclusion.usf" 276
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/OcclusionQueryVertexShader.usf" 277
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HitProxyPixelShader.usf" 278
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HitProxyVertexShader.usf" 279
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ReflectionEnvironmentShaders.usf" 280
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ReflectionEnvironmentShared.usf" 281
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SkyLightingShared.usf" 282
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/ReflectionEnvironmentComputeShaders.usf" 283
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightShaftShader.usf" 284
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/StationaryLightOverlapShaders.usf" 285
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredLightPixelShaders.usf" 286
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DeferredLightVertexShaders.usf" 287
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVVisualise.usf" 288
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVGeometryVolumeCommon.usf" 289
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVDirectLightInject.usf" 290
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVPropagate.usf" 291
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVBuildGeometryVolume.usf" 292
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVInject_AccumulateVplLists.usf" 293
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVInject_GenerateVplLists.usf" 294
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVClearLists.usf" 295
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LPVClear.usf" 296
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightMapDensityShader.usf" 297
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightFunctionPixelShader.usf" 298
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightFunctionVertexShader.usf" 299
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HdrCustomResolveShaders.usf" 300
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/GammaCorrection.usf" 301
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/GPUBenchmark.usf" 302
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassForForwardShadingPixelShader.usf" 303
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassForForwardShadingCommon.usf" 304
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/LightmapCommon.usf" 305
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassForForwardShadingVertexShader.usf" 306
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HeightFogCommon.usf" 307
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HeightFogPixelShader.usf" 308
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/HeightFogVertexShader.usf" 309
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistortAccumulatePS.usf" 310
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistortAccumulateVS.usf" 311
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistortApplyScreenPS.usf" 312
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldSurfaceCacheLighting.usf" 313
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldLightingShared.usf" 314
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldAOShared.usf" 315
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SkyLighting.usf" 316
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldSurfaceCacheLightingCompute.usf" 317
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DistanceFieldShadowing.usf" 318
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DepthOnlyPixelShader.usf" 319
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DepthOnlyVertexShader.usf" 320
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/PositionOnlyDepthVertexShader.usf" 321
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/DownsampleDepthPixelShader.usf" 322
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassPixelShader.usf" 323
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassCommon.usf" 324
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassVertexShader.usf" 325
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassVertexCommon.usf" 326
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/BasePassTessellationShaders.usf" 327
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/AtmospherePrecompute.usf" 328
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/AtmospherePrecomputeCommon.usf" 329
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/AtmospherePrecomputeInscatter.usf" 330
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/AtmosphericFogShader.usf" 331
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementTexture2DPreviewPixelShader.usf" 332
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/SimpleElementNormalMapPixelShader.usf" 333
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/meshpaintdilatepixelshader.usf" 334
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/meshpaintdilatevertexshader.usf" 335
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MeshPaintPixelShader.usf" 336
+"/Users/Shared/UnrealEngine/4.7/Engine/Binaries/Mac/../../../Engine/Shaders/MeshPaintVertexShader.usf" 337
+"../../../Engine/Config/Android/AndroidEngine.ini" 338
+"../../../Engine/Config/IOS/IOSEngine.ini" 339
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/4.7/DerivedDataCache/Boot.ddc" 340
+"../../../Engine/DerivedDataCache/Compressed.ddp" 341
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 342
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/TemplateDefs.ini" 343
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini" 344
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 345
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 346
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 347
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 348
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 349
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 350
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 351
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 352
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 353
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 354
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 355
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 356
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 357
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 358
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 359
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 360
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 361
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 363
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 364
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 365
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 366
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 367
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 368
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 369
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 370
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 371
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 372
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 373
+"../../../Engine/Content/EngineResources/Black.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 379
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 380
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 381
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 382
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 383
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 384
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 385
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 386
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 387
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 388
+"../../../Engine/Content/EngineSounds/Master.uasset" 389
+"../../../Engine/Content/EngineSounds/Music.uasset" 390
+"../../../Engine/Content/EngineSounds/SFX.uasset" 391
+"../../../Engine/Content/EngineSounds/Normal_Attack.uasset" 392
+"../../../Engine/Content/EngineSounds/Special_Attack_PSM.uasset" 393
+"../../../Engine/Content/EngineSounds/Duck_Normal_Attack_MixMod.uasset" 394
+"../../../Engine/Content/EngineSounds/Voice.uasset" 395
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 396
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 397
+"../../../Engine/Content/EngineTireTypes/DefaultTireType.uasset" 398
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/InternationalizationExport.ini" 399
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini" 400
+"../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf" 401
+"../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf" 402
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf" 403
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Black.ttf" 404
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf" 405
+"../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf" 406
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 407
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 408
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 409
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 410
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 411
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 412
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/4.7/Saved/Config/Mac/SourceControlSettings.ini" 413
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini" 414
+"/Users/bernddrlangenstein/Library/Preferences/Unreal Engine/TheBeanstalkEditor/Mac/SourceControlSettings.ini" 415
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 416
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 417
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 418
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 419
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 420
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 421
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 422
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 423
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 424
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 425
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 427
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 428
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Intermediate/CachedAssetRegistry.bin" 429
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Maps/ClimbingLevel.umap" 430
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/2/4/A047B50D4C15F0B5529FB3A1A80643D5.udd" 431
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/0/B043470143CFD7F63B8117B0A3BD4E11.udd" 432
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/8/7/35C7D27E437A3CE93D0EE8B0DCBAF4BF.udd" 433
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/1/4/CCABD312498B9FF9D42DC095797E3BA8.udd" 434
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/2/5/7D9D800B417C3DDC086749AC80F7D571.udd" 435
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/2/1/AF991A43496CAB6D186FBCA503A546FA.udd" 436
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/6/F51815C0484DB091CA7E3AA3453E6B8A.udd" 437
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/0/9/67BCFD1443D8532E28F6CE89895EA918.udd" 438
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/5/0/36E6F69D4FE6BA597B6158BFF4F74687.udd" 439
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/9/2/3182F6AE464F13E8E2149BA8BFFC4C95.udd" 440
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/0/692E53BF4ED77F3951A9029B879F04FB.udd" 441
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/8/6/847E88F24C8BE58A12DA4DAD631D3BFE.udd" 442
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/8/7/E87A6A77404164909992F5B884A26BDF.udd" 443
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/8/8/9288A84249B7C6784675C49306F3F748.udd" 444
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 445
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 446
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 447
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 448
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 449
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 450
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 451
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 452
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 453
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 454
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 455
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 456
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 457
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 458
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 459
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 460
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 461
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 462
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 463
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/ClimbGameMode.uasset" 464
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 465
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/Beanstalk.uasset" 466
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/Beanstalk_TestVersion.uasset" 467
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/StalkKnotNormal.uasset" 468
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/StalkKnot.uasset" 469
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_Metal_Gold.uasset" 470
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_MacroVariation.uasset" 471
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Metal_Gold_D.uasset" 472
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Metal_Gold_N.uasset" 473
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 474
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_Ground_Grass.uasset" 475
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Ground_Grass_D.uasset" 476
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Ground_Grass_N.uasset" 477
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Perlin_Noise_M.uasset" 478
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/StalkKnotThorn.uasset" 479
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_Tech_Hex_Tile.uasset" 480
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 481
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Tech_Hex_Tile_M.uasset" 482
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Tech_Hex_Tile_N.uasset" 483
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/StalkKnotFlower.uasset" 484
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 485
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 486
+"../../../Engine/Content/BasicShapes/Cube.uasset" 487
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_Bush.uasset" 488
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Bush_D.uasset" 489
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Bush_N.uasset" 490
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_Ground_Moss.uasset" 491
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_ground_Moss_D.uasset" 492
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Textures/T_Ground_Moss_N.uasset" 493
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/ClimbCharacter.uasset" 494
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Character/HeroTPP_AnimBlueprint.uasset" 495
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Animations/Jump_End.uasset" 496
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Character/HeroTPP_Skeleton.uasset" 497
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Animations/Jump_Loop.uasset" 498
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Animations/Jump_Start.uasset" 499
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Character/IdleRun_TPP.uasset" 500
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Animations/Idle.uasset" 501
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Animations/Run.uasset" 502
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Animations/Walk.uasset" 503
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Character/HeroTPP.uasset" 504
+"../../../Engine/Content/TemplateResources/MI_Template_BaseBlue.uasset" 505
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 506
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/HUD/GameHUD.uasset" 507
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/BeanStalkSaveGame.uasset" 508
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/HUD/PlayHUD.uasset" 509
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/7/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5C1BD5844BCCCEFE984F13B5EF729__43BA26522B41BD490ED9EA1B64317ECF97E664ED.udd" 510
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___7BC89284183EBC06A61D57C5B7388333D78DE182.udd" 511
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/1/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D70213649E1512D78FAE78AAD267__A21BFC71991BCCBA81347AEBE634ED91B1F9028F.udd" 512
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/7/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___688F021558AD9728B611859D80D1E67D176A7832.udd" 513
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5C1BD5844BCCCEFE984F13B5EF729__B084D395B138D6ACD24D804C996A87556478A5A2.udd" 514
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/8/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D70213649E1512D78FAE78AAD267__9992C59F662D7A8B857785EAD9FDA391EFB8CD64.udd" 515
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D70213649E1512D78FAE78AAD267__D500818863DDD6AFBB4A094F2FAB8CCB73BBB650.udd" 516
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D70213649E1512D78FAE78AAD267__D32EF6030FDA2726811970DC2ED0A4BEBA46B37E.udd" 517
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___1F6C78F02699E8A06CA5CE2A19A3D115DB617FC3.udd" 518
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D70213649E1512D78FAE78AAD267__30C8BC0B890A9E9595E72A2727D2D53E7A2C565D.udd" 519
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/3/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___D7736C7AF4F5C6D182D1BB7A5EB882D4FD33A349.udd" 520
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/6/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D70213649E1512D78FAE78AAD267__368456AF81C7E1B6218B65CFDFE78056C2B9CE19.udd" 521
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5C1BD5844BCCCEFE984F13B5EF729__111383427EBCBF55A55660D1D26B9A3CC07ECF07.udd" 522
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/8/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_E2F950034A19F2DA43AC93A421189BE6___C4DC5CDC710D66946ADD38CD3781BEF7BF12D06F.udd" 523
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/4/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___F8AD18668C50B2729BFB1626AD793102BE24CD6C.udd" 524
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_E2F950034A19F2DA43AC93A421189BE6___8D7122F7E707C8E6D4D08C5CD2707BDD34E61604.udd" 525
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/0/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_3336FBEF4A3526C6FE3A369BA3AB0A8C___570D18B4994EE836E7EFFDBF62240F6482A7DBA8.udd" 526
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/8/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5C1BD5844BCCCEFE984F13B5EF729__880975CB23E6405C48473FEE13D2A0409A23EBA1.udd" 527
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/5/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__B36BC3D049F9B2E078079AFA272FAEEF295B0CBD.udd" 528
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__DBD6E1CAEE7F919A605850618D42C00F675F5D2B.udd" 529
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/2/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5C1BD5844BCCCEFE984F13B5EF729__781B22F712D26AAA4079A81B3BB9DA3E2B145FF6.udd" 530
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_5C1BD5844BCCCEFE984F13B5EF729__B0768860B637B3C8426E60F5E32EED9B4D758B2C.udd" 531
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3C7AE8D247CC373876862D89197DB__A14A6FBA7DD3F7C3FBB9E91553C4B7371F98CBD5.udd" 532
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/2/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3C7AE8D247CC373876862D89197DB__16349644F7E4A7BE4ACEE1769194CC0DC3A066C0.udd" 533
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3C7AE8D247CC373876862D89197DB__85A7CE6F51B52953BAC8B43682EDFD5D660DEF4D.udd" 534
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/9/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__23C7C9C85F600780C2EDE770DA7FFB266185F991.udd" 535
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_E2F950034A19F2DA43AC93A421189BE6___CC05D96150B515F37F52B31A88CDA3B1F9E4BE0D.udd" 536
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__9BCAFDB8E31C7350A2169671B176DC63CA849E40.udd" 537
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3C7AE8D247CC373876862D89197DB__50C633B5258E56FC2F213908C7A98A62098A3466.udd" 538
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/0/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3C7AE8D247CC373876862D89197DB__A4E2AE944E36E39BFF6510ED9B152CA021290A33.udd" 539
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B50C4E4947C56561FEEAC1B72FB696F5___C5B925583CF45E5103F0E9C038FF2C3E77A4C0FB.udd" 540
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B50C4E4947C56561FEEAC1B72FB696F5___28B673889575AD873D530F00C0F758F058DA0880.udd" 541
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_E2F950034A19F2DA43AC93A421189BE6___3D0E6C76F7CFA3C4115D61DD3DDBF37B91A91A85.udd" 542
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__ADB623AEED514F232BA07F915485305BB7C39AB0.udd" 543
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_0A0241DA4286C10A694E268F48981__7D2D8DE0D8FAE7C7AB4D777A851BC78778852B55.udd" 544
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/8/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_E2F950034A19F2DA43AC93A421189BE6___EEB3335BD70C1D5B78776D810E15834C618E146D.udd" 545
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/1/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B50C4E4947C56561FEEAC1B72FB696F5___B3D29EC8D019BE9A8054CB6077980A7B07B59C9F.udd" 546
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DE384E2D4FF9A6F62712EF84F720003B___907F795464FA575BC9792604DABB7F325AF7CE12.udd" 547
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/4/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_E2F950034A19F2DA43AC93A421189BE6___7EDF04ADDF926353E594902266F79469FD45AF45.udd" 548
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DE384E2D4FF9A6F62712EF84F720003B___DD02E9725A45C7EE2345AAB606B3274CBCFC2A6A.udd" 549
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/1/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_150_MAC_2051__BC5N_DEV_SL_NODBUF66__3864EF0303776D18762BD0456EE62F315D8817CE.udd" 550
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/4/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9255BC244D6F7AF001E622B65F752__DD6649EF155DE400CA4904AF5253F7F258E102B8.udd" 551
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B50C4E4947C56561FEEAC1B72FB696F5___D63B960EB133617BC10C416331FDC33F736919D5.udd" 552
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DE384E2D4FF9A6F62712EF84F720003B___A724E4367B1CABEC4EB7D8F67D830BEAA4610A1F.udd" 553
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/3/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9255BC244D6F7AF001E622B65F752__BE842E0510EA111FD9EC9C1C30BF9B682980C29D.udd" 554
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_B50C4E4947C56561FEEAC1B72FB696F5___83F98BB4CC04CA257E673CA83DC9AD3EFA1195A0.udd" 555
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/5/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_DE384E2D4FF9A6F62712EF84F720003B___EC1732CC916C70132490E23F0C6211CC91512289.udd" 556
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/6/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6975DFB44593B9EE1DAC5C9913C98__9B28EC43C8A2D708494931CB64BB40BDD9D33BA5.udd" 557
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/9/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_47A63CE14CC14B4DD89E3FB78820701F___D60D18DB48AB0A5294CF1BE537A43D03384C0CD3.udd" 558
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/5/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6975DFB44593B9EE1DAC5C9913C98__C889967E52A0280F7D3F7D89738C5821E737CB19.udd" 559
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9255BC244D6F7AF001E622B65F752__13812103FA875152BC5C40768B7AE94B8B50CF9D.udd" 560
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/8/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_150_MAC_2051__BC5N_DEV_SL_NODBUFAE__EAD815ED61DF5CA0DB56C7797E74B867E554FB20.udd" 561
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/8/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_47A63CE14CC14B4DD89E3FB78820701F___110D8C5A680F520DB6C5886A9326A4140E39E41A.udd" 562
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/7/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_9255BC244D6F7AF001E622B65F752__199C86FE6BA2313C71DBB2F7289203BA2EEB716F.udd" 563
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/2/6/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_150_MAC_2051__BC5N_DEV_SL_NODBUF54__D7B763F4E8E085F24DAB57087EB89830FC274E7C.udd" 564
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6975DFB44593B9EE1DAC5C9913C98__76C293C8DA722F878345261C448A45FB9489CE50.udd" 565
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6975DFB44593B9EE1DAC5C9913C98__2409E9315E1DEFB3A90729C5DA03F108412D60BE.udd" 566
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/9/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_47A63CE14CC14B4DD89E3FB78820701F___45DC52DF4E7901D43F3558E26EF655055FDB0640.udd" 567
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/5/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6975DFB44593B9EE1DAC5C9913C98__9A42E7F84F5213D0EC4C3887B18D15E870ADEB22.udd" 568
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/5/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_150_MAC_2051__BC5N_DEV_SL_NODBUF48__72204443D486C538421DF66675F991491EF7DDA7.udd" 569
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/3/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_6975DFB44593B9EE1DAC5C9913C98__A9BE0DE19414361766B2AC91661833A6A7809613.udd" 570
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_47A63CE14CC14B4DD89E3FB78820701F___9B7ED25C1009B933F820A845497B2067D213F07B.udd" 571
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/9/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_47A63CE14CC14B4DD89E3FB78820701F___1C47ADAF75FF096D5541BAE5B57751C16D9F45BB.udd" 572
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/9/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_150_MAC_2051__BC5N_DEV_SL_NODBUFAD__8CB1DABD9037195802F0B4EC89D7B3AF7C210C7C.udd" 573
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/7/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BC5_47A63CE14CC14B4DD89E3FB78820701F___306ADC6C50A8DDDE8052619E531F7AB4C6CD0545.udd" 574
+"../../../Engine/Content/Maps/Entry.umap" 575
+"../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 576
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 577
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 578
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 579
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 580
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 581
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 582
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 583
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 584
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 585
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 586
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/0/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_77FC47CDEC409A4991051F86D5F56__D97B49D6DD3F20E4BC8A1532D32530288B57AC16.udd" 587
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/4/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_8079A687894A808736AAF69EB3E9D__2DB773FDF665461BC2FE5CF08CF8E6D0EE487440.udd" 588
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/3/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_6313AFA5734CFA6E9813DE89E0F7C852__8B8BBC7D7FDF886BF3BB1FF0B3E27EDEEB0273E0.udd" 589
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/7/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_77FC47CDEC409A4991051F86D5F56__5BD4654A3E4A54D0BE668591479C89723A1733B8.udd" 590
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/5/8/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_E3D56625FE41525F666C2DA3A5975498__243C77D5DB0DA550D8DCC8907EFEBE2B6BCEB309.udd" 591
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_6313AFA5734CFA6E9813DE89E0F7C852__AB769054F067F282EC51757B53ED096CE16E14A7.udd" 592
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/1/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_77FC47CDEC409A4991051F86D5F56__697DC2DAA7B1C92E2358B6E007D4FB6392AAC7A7.udd" 593
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/5/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_B1BF3C5DEE43BF20F48619851F099B4__FFCACCDF34420D391740308CF5888C35FFACECA1.udd" 594
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_DXT1_6313AFA5734CFA6E9813DE89E0F7C852__9EB22B0F2B73F724401F5DD9CCE8168C19AA8868.udd" 595
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_A7C3C36924475EFEBB484998418C9AD__3EA04FCF6702B9BB641B6E9A17D04EC3C9F198EB.udd" 596
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_B1BF3C5DEE43BF20F48619851F099B4__E1BEDDC26CB739593E45CFED1817238CCEB34F72.udd" 597
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_BGRA8_B1BF3C5DEE43BF20F48619851F099B4__F9CB98ABE4C6703FADA0EB40263242801728B9B1.udd" 598
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 599
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Wood_A_S.uasset" 600
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Wood_A_N.uasset" 601
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Wood_a_d.uasset" 602
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_White_Painted_Metal_N.uasset" 603
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_White_Painted_Metal_D.uasset" 604
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_UNV_Concrete02_N.uasset" 605
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_UNV_Concrete02.uasset" 606
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Underground_Base_Pipe_N.uasset" 607
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Underground_Base_Pipe_D.uasset" 608
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Stone_Brick_N.uasset" 609
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Stone_Brick_D.uasset" 610
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Sky_Stars.uasset" 611
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Sky_Clouds_M.uasset" 612
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rocky_01_N.uasset" 613
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_Detail_03_D.uasset" 614
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_Detail_02_N.uasset" 615
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_Detail_02_D.uasset" 616
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_11b_D.uasset" 617
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_10_N.uasset" 618
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_10_D.uasset" 619
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_09_D.uasset" 620
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_08_N.uasset" 621
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_08_D.uasset" 622
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_07b_D.uasset" 623
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_07_N.uasset" 624
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_07_D.uasset" 625
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_06_N.uasset" 626
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_06_D.uasset" 627
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_05_N.uasset" 628
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_05_D.uasset" 629
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_03_N.uasset" 630
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_03_D.uasset" 631
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_01_N.uasset" 632
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Rock_01_D.uasset" 633
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_PatchyGrass_N.uasset" 634
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_PatchyGrass_D.uasset" 635
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_PaintedMetal01_N.uasset" 636
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_PaintedMetal01.uasset" 637
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Paint_Metal_Rust_N.uasset" 638
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Paint_Metal_Rust_D.uasset" 639
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Scuffed_N.uasset" 640
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Scuffed_D.uasset" 641
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Rust_01_N.uasset" 642
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Rust_01_D.uasset" 643
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Painted_04_N.uasset" 644
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Painted_04_D.uasset" 645
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Metal03_N.uasset" 646
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Metal03_D.uasset" 647
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Metal01_N.uasset" 648
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Metal01_D.uasset" 649
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_N.uasset" 650
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Metal_Dark_Gun_metal_E.uasset" 651
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_Noise_N.uasset" 652
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_Dirt_N.uasset" 653
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_Dirt_D.uasset" 654
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_Detail_N.uasset" 655
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_02_N.uasset" 656
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_02_D.uasset" 657
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_01_N.uasset" 658
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Ground_01_D.uasset" 659
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Gravel_N.uasset" 660
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Gravel_D.uasset" 661
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base_07_N.uasset" 662
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base_07.uasset" 663
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base_06_N.uasset" 664
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base_06.uasset" 665
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base04_N.uasset" 666
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base04_D.uasset" 667
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base02_N.uasset" 668
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Generic_Concrete_Base02.uasset" 669
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Dirt_N.uasset" 670
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Dirt_D.uasset" 671
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_DesertCrystal01_N.uasset" 672
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_Wall_N.uasset" 673
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_Wall_D.uasset" 674
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_Wall07_N.uasset" 675
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_Wall07.uasset" 676
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_N.uasset" 677
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_Floor01_N.uasset" 678
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_Floor01.uasset" 679
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_D.uasset" 680
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_01_N.uasset" 681
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete_01_D.uasset" 682
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete01_N.uasset" 683
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Concrete01_D.uasset" 684
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_CobbleStone_04b_D.uasset" 685
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_CobbleStone_04_R.uasset" 686
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_CobbleStone_04_N.uasset" 687
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_CobbleStone_04_D.uasset" 688
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_CobbleDark_01_D.uasset" 689
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Cobble_01_H.uasset" 690
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Cliff_N.uasset" 691
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Cliff_M.uasset" 692
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Base_Metal_Gray_N.uasset" 693
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Base_Metal_Gray_D.uasset" 694
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Bark02_N.uasset" 695
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_Bark02_D.uasset" 696
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_ArmorMetal01_N.uasset" 697
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/T_ArmorMetal01.uasset" 698
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/Sky54a2048LDR.uasset" 699
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/Sky54a2048.uasset" 700
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/Metal_Tile_2_N.uasset" 701
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Textures/Metal_Tile_2.uasset" 702
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Props/SM_Bush.uasset" 703
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 704
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 705
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 706
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 707
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 708
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 709
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Architecture/SM_FloorPiece500x500.uasset" 710
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/StarterContent/Architecture/SM_CeilingPiece500x500.uasset" 711
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_ColorGrid_LowSpec.uasset" 712
+"/Users/bernddrlangenstein/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/1/3/MATSM_85DD00DAF10D45C79D4ED0306AF2628B_GLSL_150_MAC_2051__BC5N_DEV_SL_NODBUFCF__C93A3E9A149AE22BB5FFC3202C3CB0ADD4DAEEA2.udd" 713
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Materials/M_CobbleStone_Pebble.uasset" 714
+"../../../../../../bernddrlangenstein/Documents/Unreal Projects/TheBeanstalk/Content/Blueprints/MyGame.uasset" 715
